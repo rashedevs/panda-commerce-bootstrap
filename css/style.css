@@ -1,0 +1,25 @@
+.panda-back-info{
+    background-color: #fceae8;
+}
+.panda-button-info{
+    background-color: #ff4c93;
+    color: white;
+    padding: 9px 25px;
+    border-radius: 8px;
+    font-weight: 500;
+}
+.text-button-info{
+    color: #ff4c93;
+}
+.cat-watch-info{
+    background-color: #ffa500;
+}
+.cat-bag-info{
+    background-color: #da70d6;
+}
+.cat-shoes-info{
+    background-color: #0000ff;
+}
+ul a{
+    font-weight: 600;
+}
